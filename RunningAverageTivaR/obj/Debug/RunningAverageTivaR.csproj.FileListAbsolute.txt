@@ -1,0 +1,10 @@
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\bin\Debug\RunningAverageTivaR.exe.config
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\bin\Debug\RunningAverageTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\bin\Debug\RunningAverageTivaR.pdb
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\obj\Debug\RunningAverageTivaR.csprojResolveAssemblyReference.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\obj\Debug\RunningAverageTivaR.frmRunningAverage.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\obj\Debug\RunningAverageTivaR.Properties.Resources.resources
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\obj\Debug\RunningAverageTivaR.csproj.GenerateResource.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\obj\Debug\RunningAverageTivaR.csproj.CoreCompileInputs.cache
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\obj\Debug\RunningAverageTivaR.exe
+C:\Users\Tiva Rait\Desktop\School work\Programming\Grade 11\Unit 3\RunningAverageTivaR\RunningAverageTivaR\obj\Debug\RunningAverageTivaR.pdb
